@@ -1,2 +1,2 @@
 # Async-and-Promise-Js
-Just a practice got Async and promise
+Just a practice on Async and promise js
